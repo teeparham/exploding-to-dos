@@ -5,7 +5,7 @@
   "permissions": ["tabs", "activeTab", "http://*/*", "https://*/*"],
   "icons": { "128": "icon_128.png" },
   "web_accessible_resources": [
-    "audio/bomb.wav","img/explosion.gif"
+    "audio/bomb.mp3","img/explosion.gif"
   ],
   "content_scripts": [
     {
